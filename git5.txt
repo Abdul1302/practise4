@@ -1,0 +1,5 @@
+                   The hanging punctuation makes the edges of the text look 
+                   straighter even though we have pushed portions of it past
+                   the guides we might intuitively rely on to produce “straight
+                   text.” It looks straighter even though it’s not. Optical 
+                   margins make better book design. Here are some blown up examples:
